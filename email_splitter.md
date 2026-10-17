@@ -1,0 +1,1 @@
+E-mail splitter (15 min): Get an e-mail address from the user. It is valid only if: it contains exactly one @; @ is not the first or the last character; the part after @ contains at least one .; and the part after the last . consists of 2 or 3 characters, all letters. If it is valid, print the username and the domain on separate lines; otherwise print Invalid e-mail!.
